@@ -18,9 +18,9 @@ import numpy as np
 random_all(2023) 
 
 class AnatomyDetection(object):
-    def __init__(self, config_file):
+    def __init__(self, dic):
         # 1, load configuration parameters
-        config = parse_config(config_file)
+        # config = parse_config(dic)
         config_data = config['data'] 
         config_weight = config['weight']
 
