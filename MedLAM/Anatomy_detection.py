@@ -21,8 +21,8 @@ class AnatomyDetection(object):
     def __init__(self, dic):
         # 1, load configuration parameters
         # config = parse_config(dic)
-        config_data = config['data'] 
-        config_weight = config['weight']
+        config_data = dic['data'] 
+        config_weight = dic['weight']
 
         self.dis_ratio = np.array([1500, 600, 600])[np.newaxis,:]
         self.patch_size = np.array([64, 64, 64])
