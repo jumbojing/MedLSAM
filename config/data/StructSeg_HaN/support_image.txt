@@ -1,5 +1,5 @@
-/kaggle/input/structseg-han/HaN_OAR/1/data.nii
-/kaggle/input/structseg-han/HaN_OAR/10/data.nii
-/kaggle/input/structseg-han/HaN_OAR/11/data.nii
-/kaggle/input/structseg-han/HaN_OAR/12/data.nii
-/kaggle/input/structseg-han/HaN_OAR/13/data.nii
+/kaggle/input/structseg2/HaN_OAR/1/data.nii
+/kaggle/input/structseg2/HaN_OAR/10/data.nii
+/kaggle/input/structseg2/HaN_OAR/11/data.nii
+/kaggle/input/structseg2/HaN_OAR/12/data.nii
+/kaggle/input/structseg2/HaN_OAR/13/data.nii
